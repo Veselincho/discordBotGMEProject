@@ -1,9 +1,9 @@
 ## Example
 
-#user — Днес в 14:02 `/price`
+# user — Днес в 14:02 `/price`
 
 
-#priceBot APP  — Днес в 14:02
+# priceBot APP  — Днес в 14:02
 ⦿ NYSE market status: CLOSED. Time to open: 02:27:57
 
       ⌚Real Time Prices:
