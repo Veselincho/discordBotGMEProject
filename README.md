@@ -1,11 +1,9 @@
 ## Example
-user — Днес в 14:02
-/price
+
+#user — Днес в 14:02 `/price`
 
 
-priceBot
-APP
- — Днес в 14:02
+#priceBot APP  — Днес в 14:02
 ⦿ NYSE market status: CLOSED. Time to open: 02:27:57
 
       ⌚Real Time Prices:
@@ -16,4 +14,4 @@ GameStop Corporation current price is: $24.69 USD
 ➼   SOL $GME price: $0.007817 ◎
 ➼   ETH $GME price: $0.000016 Ξ
 
-    📊 Volume: 20,128,400 || Average Volume: 35,092,717 at 2024-06-28
+    📊 Volume: 20,128,400 || Average Volume: 35,092,717 at 2024-06-28 
